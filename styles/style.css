@@ -3,6 +3,16 @@
     color: white;
     background-color: black;
 }
-h1 {
-    font-size: xxx-large;
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #361146;
+    padding: 1%;
+}
+
+.fot {
+    background-color: #361146;
+    padding-left: 20%;
+    padding-right: 20%;
 }
