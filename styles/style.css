@@ -1,7 +1,50 @@
 * {
-    text-align: center;
     color: white;
     background-color: black;
+}
+
+.nadpis {
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.nadpis2 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+
+
+.O_cem {
+    font-size: x-large;
+    color: cyan;
+}
+
+.PRVNIodstavec {
+    padding: 1%;
+
+}
+
+.prvniODS {
+    font-size: larger;
+}
+
+
+
+
+
+
+
+
+
+
+
+.fot {
+    background-color: #361146;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 footer {
@@ -11,9 +54,10 @@ footer {
     padding: 1%;
 }
 
-.fot {
+.download {
     background-color: #361146;
-    padding-left: 20%;
-    padding-right: 20%;
 }
 
+.download:hover {
+    color: cyan;
+}
