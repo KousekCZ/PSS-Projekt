@@ -31,6 +31,13 @@
     font-size: larger;
 }
 
+.odkaz {
+    text-decoration: none;
+}
+
+.odkaz:hover {
+    color: cyan;
+}
 
 
 
